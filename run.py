@@ -9,7 +9,6 @@ from static.configure import  CONFIGURE
 
 from  Src.API.streamingcommunity import streaming_community
 from  Src.API.streamingwatch import streamingwatch
-from Src.API.cb01 import cb01
 from Src.API.guardaserie import guardaserie
 from Src.API.guardahd import guardahd
 from Src.API.animeworld import animeworld
